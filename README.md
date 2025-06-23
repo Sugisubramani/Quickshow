@@ -2,7 +2,7 @@
 
 A full-stack movie booking web application built with **React**, **Express**, **Node.js**, and **MongoDB**, featuring authentication, movie listings, payments, and more.
 
-## 🔗 Live Demo
+## 🌐 Live Demo
 https://quickshow-client-olive.vercel.app/
 
 ---
