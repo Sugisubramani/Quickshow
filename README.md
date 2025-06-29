@@ -1,6 +1,6 @@
 # 🎬 QuickShow – Movie Booking Web App
 
-A full-stack movie booking web application built with **React**, **Express**, **Node.js**, and **MongoDB**, featuring authentication, movie listings, payments, and more.
+An end-to-end movie ticket booking web application built with **React**, **Express**, **Node.js**, and **MongoDB**, featuring authentication, movie listings, payments, and more.
 
 ## 🌐 Live Site  
  [https://quickshow-client-olive.vercel.app/](https://quickshow-client-olive.vercel.app/)
